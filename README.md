@@ -7,7 +7,7 @@ This repository contains a simple web page demonstrating the HTML `video` tag.
 
 Video explanation (replace the placeholder with your uploaded video URL after uploading):
 
-Video walkthrough: [VIDEO_LINK_PLACEHOLDER]
+Video walkthrough: [https://youtu.be/tlRlavbg3sY?si=y7Em7ONxHT6W2Axg]
 
 How to push to GitHub (replace <your-repo-url> with the remote URL):
 
@@ -22,7 +22,7 @@ Suggested video steps:
 
 1. Record a short (30–90s) screen or phone video explaining the Git commands used in this assignment and their purpose.
 2. Upload the video to YouTube (set to Public or Unlisted) or Vimeo.
-3. Replace the `VIDEO_LINK_PLACEHOLDER` above with the uploaded video URL and commit the change.
+3. The uploaded video URL is included above. To change it, replace the URL and commit the change.
 
 Git commands used in this assignment:
 
